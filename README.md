@@ -1,8 +1,9 @@
 # ATLAS
 Archetype & Trend Learning for Assortment Strategy
 
-
+```mermaid
 flowchart TB
+
   %% =========================
   %% End-to-End: Arquetipos + Tendencia + Forecast (Chamarras/Abrigos)
   %% =========================
